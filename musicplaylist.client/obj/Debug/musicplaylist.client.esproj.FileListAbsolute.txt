@@ -1,0 +1,2 @@
+C:\Users\Kamil\Desktop\C# ASP.NET\Week 14 -\InClass\MusicPlaylist\musicplaylist.client\obj\Debug\musicplaylist.client.esproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\MusicPlaylist\musicplaylist.client\obj\Debug\musicplaylist.client.esproj.CoreCompileInputs.cache
