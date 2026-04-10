@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicPlaylist.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253ad48d880f20873bcbb3f596ea494d50f86f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicPlaylist.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicPlaylist.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
